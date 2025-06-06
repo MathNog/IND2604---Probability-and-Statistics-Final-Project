@@ -24,4 +24,15 @@ The model tests both individual and joint statistical significance of the search
 
 ## Academic Integrity Notice
 
-This r
+This repository is intended strictly for academic and educational reference.  
+**Plagiarism or reuse in coursework (especially in IND2604 or similar subjects) is strictly prohibited.**  
+The project was made public only after the course was completed.
+
+## Methodology Summary
+
+- **Data Period**: Jan 2010 – Jan 2024 (weekdays only)  
+- **Keywords**: "Ibovespa", "Bolsa de Valores", "Ações", "Dividendos", "Renda Fixa", "Inflação", "CDI", "Dólar", "Bitcoin", "Renda Variável"  
+- **Model**: Multiple linear regression with lagged regressors  
+- **Tests Used**:  
+  - *t-tests* and *F-tests* for coefficient significance  
+  - Jarque-Bera, Ljung-Box, and Breusch-Pagan for residual diagnostics
